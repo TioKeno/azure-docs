@@ -53,6 +53,7 @@ For machines running Windows 7, 8, 8.1, and 10 you can enable users to reset the
 - Run at least Windows 10, version April 2018 Update (v1803), and the devices must be either:
     - Azure AD joined
     - Hybrid Azure AD joined
+ Note: If the onpremises domain is managed, Azure AD SSPR on Windows lockcreen is not supported
 
 ### Enable for Windows 10 using Intune
 
